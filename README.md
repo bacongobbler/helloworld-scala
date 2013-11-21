@@ -9,7 +9,7 @@ This is a sample project that shows how to deploy a Scala application on Heroku.
 
 ## Deploying to Heroku
 
-Make sure you have the [Herkoku Toolbelt](https://toolbelt.heroku.com/) installed.
+Make sure you have the [Heroku Toolbelt](https://toolbelt.heroku.com/) installed.
 
 ```shell
 # Create a new heroku application
